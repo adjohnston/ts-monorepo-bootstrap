@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# build
+.env
+build
+
+# cache
+.yarn
+
+# logs
+yarn.logs
+yarn-error.log
